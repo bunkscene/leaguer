@@ -1,9 +1,9 @@
 {
-  "name": "@monorepo-template/scripts",
+  "name": "@leaguer/scripts",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@leaguer/core": "*",
     "sst": "*"
   },
   "scripts": {

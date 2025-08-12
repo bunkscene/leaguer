@@ -1,9 +1,9 @@
 {
-  "name": "@monorepo-template/functions",
+  "name": "@leaguer/functions",
   "version": "0.0.0",
   "type": "module",
   "dependencies": {
-    "@monorepo-template/core": "*",
+    "@leaguer/core": "*",
     "sst": "*"
   },
   "devDependencies": {
